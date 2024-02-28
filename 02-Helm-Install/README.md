@@ -85,4 +85,5 @@ helm ls
 # Uninstall Helm Release
 helm uninstall <RELEASE-NAME>
 helm uninstall mynginx 
+hello
 ```
